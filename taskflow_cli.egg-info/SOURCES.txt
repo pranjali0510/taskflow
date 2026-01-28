@@ -1,7 +1,0 @@
-cli.py
-setup.py
-taskflow_cli.egg-info/PKG-INFO
-taskflow_cli.egg-info/SOURCES.txt
-taskflow_cli.egg-info/dependency_links.txt
-taskflow_cli.egg-info/entry_points.txt
-taskflow_cli.egg-info/top_level.txt
