@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: taskflow-cli
+Version: 1.0.0
+Summary: CLI-based Task Management System
+Author: Pranjali Sharma
+Dynamic: author
+Dynamic: summary
